@@ -18,7 +18,7 @@ repositories {
     mavenCentral()
 }
 
-group = "groupId"
+group = "alexiscomete.managesave"
 version = "1.0-SNAPSHOT"
 description = "ManageSave"
 java.sourceCompatibility = JavaVersion.VERSION_1_8
