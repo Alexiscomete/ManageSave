@@ -1,5 +1,3 @@
-package alexiscomete.managesave
-
 import java.sql.SQLException
 
 class CacheCustom<U>(private val table: Table, private val function: (Long) -> U) {

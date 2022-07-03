@@ -1,5 +1,3 @@
-package alexiscomete.managesave
-
 import java.sql.*
 
 var save: SaveManager? = null
