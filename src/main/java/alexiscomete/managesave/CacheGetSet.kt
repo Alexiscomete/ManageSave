@@ -1,3 +1,5 @@
+package alexiscomete.managesave
+
 import java.util.*
 
 open class CacheGetSet(open val id: Long, private val table: Table) {
